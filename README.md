@@ -1,6 +1,6 @@
 # Webbutveckling i Java 25 yhp - 2021 VT
 
-- Inlämningsuppgift 1 
+- Inlämningsuppgift 1 (Pokedex)
 
 - Inlämningsuppgift 2
 
