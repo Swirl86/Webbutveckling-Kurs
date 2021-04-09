@@ -2,7 +2,7 @@
 
 - Inlämningsuppgift 1 (Pokedex)
 
-- Inlämningsuppgift 2
+- Inlämningsuppgift 2 (Storage)
 
 - Grupp projekt
 
