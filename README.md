@@ -4,7 +4,7 @@
 
 - Inlämningsuppgift 2 (Storage)
 
-- Grupp projekt
+- Grupp projekt (AttendanceApp - React och Spring Boot)
 
 
 ## Kursen omfattar följande moment:
